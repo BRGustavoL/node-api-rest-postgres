@@ -3,7 +3,7 @@ API REST Node.js + Express + PostgreSQL
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-## Clone Project
+## Clone
 Clone this repo to your local machine using `https://github.com/BRGustavoL/node-api-rest-postgres.git`
 
 ## Installing
