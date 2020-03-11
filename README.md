@@ -10,4 +10,4 @@ Clone this repo to your local machine using `https://github.com/BRGustavoL/node-
 After clone this repo, you have to install all the modules used on the project. To install it, just use `npm install`
 
 ## Running
-A folder called `node_modules` will be added into local repo, then you can run the project using `node index.js`
+A folder called `node_modules` will be added into local repo, then you can run the project using `npm start`
